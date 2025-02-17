@@ -1,5 +1,5 @@
 
-# 🏗️ **Build a Full Website Using WordPress - Course Details**
+# 🏗️ **Build a Full Website Using WordPress **
 
 ## 🎯 **Course Objective**
 This course aims to provide students with hands-on experience in building, managing, and optimizing WordPress websites, including e-commerce functionality and deployment.
